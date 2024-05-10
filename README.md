@@ -13,6 +13,7 @@ just change `$EX_KEY_SOURCE`
 
 ### dependencies
 - [nvim](https://neovim.io/) [\[GitHub\]](https://github.com/neovim/neovim)
+- [Qtile](https://qtile.org/) [\[GitHub\]](https://github.com/qtile/qtile)
 - [nvr](https://github.com/mhinz/neovim-remote)
 - [extract_key.py](#extract_keypy)
 
